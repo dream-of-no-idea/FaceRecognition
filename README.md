@@ -1,6 +1,8 @@
 # FaceRecognition
 A simple project for face recognition.
 
+# IMPORTANT: PROGRAM WORKS ON PYTHON 3.10
+
 # Project Goals
 
 - To learn more about libraries in Python
